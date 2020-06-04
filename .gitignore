@@ -1,3 +1,22 @@
+# eclipse project file
+*.settings/
+*.classpath
+*.project
+
+# NetBeans specific
+nbproject
+build
+build.xml
+nbbuild.xml
+dist
+nbdist
+nbactions.xml
+nb-configuration.xml
+lib
+manifest.mf
+
+
+
 # Compiled class file
 *.class
 
